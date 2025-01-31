@@ -490,6 +490,15 @@ footer {
   transform: rotate(45deg);
 }
 @media (max-width: 1300px) {
+  .form__table {
+    padding-right: 40px;
+  }
+  .form__pic {
+    display: none;
+  }
+  .form__left {
+    max-width: 100%;
+  }
   .main__photo_2 {
     display: none;
   }
